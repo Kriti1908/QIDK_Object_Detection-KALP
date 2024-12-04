@@ -57,7 +57,7 @@ This project is an Android application that demonstrates how to use TensorFlow L
 - You can toggle between different models using the provided UI elements.
 - Monitor CPU usage and battery consumption metrics displayed on the screen.
 
-## Project Structure
+## Project Structure inside Android code
 app/<br>
 ├── .gradle/ # Gradle configuration files <br>
 ├── .idea/ # IDE configuration files<br>
