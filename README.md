@@ -1,15 +1,13 @@
-# Adaptive Object Detection MObile Application
+# Adaptive Object Detection Mobile Application
 
 This project is an Android application that demonstrates how to use TensorFlow Lite for object detection. The app utilizes various models to detect objects in real-time using the device's camera. It also provides metrics on CPU usage and battery consumption, allowing users to switch between models based on performance criteria.
  
 ## Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- Features
+- Requirements
+- Setup Instsetupructions
+- Usage
+- Project Structure inside Android code
 
 ## Features
 - Automatic switching of ML models based on battery level, CPU usage, and battery consumption.
@@ -29,7 +27,7 @@ This project is an Android application that demonstrates how to use TensorFlow L
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/tensorflow-lite-object-detection.git
+   git clone https://github.com/Kriti1908/QIDK_Object_Detection-KALP.git tensorflow-lite-object-detection
    cd tensorflow-lite-object-detection
    ```
 
